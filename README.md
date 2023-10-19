@@ -10,10 +10,19 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
-  
+```
+#Program to find the distance between two points.
+#Developed by: T.Ajay
+#RegisterNumber:23007325
+import math
+l1=[10,6]
+l2=[4,2]
+d=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
+print("{:.2f}".format(d))  
 
+```
 
 ### OUTPUT:
-
+![Alt text](image.png)
 
 ### RESULT:
