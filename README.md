@@ -23,6 +23,7 @@ print("{:.2f}".format(d))
 ```
 
 ### OUTPUT:
-![Alt text](image.png)
+![image](https://github.com/Ajayreddy-2006/DISTANCE-BETWEEN-TWO-POINTS/assets/145742508/544fceae-a1a1-491f-8d98-74c85dc1d45e)
+
 
 ### RESULT:
